@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1484061101 source:f:\计网课设\计网\calculate.cpp
+	"calculate.h"
+	"menu.h"
+
+1484057418 f:\计网课设\计网\calculate.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stack>
+
+1484017091 f:\计网课设\计网\menu.h
+	"calculate.h"
+
+1484018794 source:f:\计网课设\计网\main.cpp
+	"menu.h"
+	"calculate.h"
+
+1484061660 source:f:\计网课设\计网\menu.cpp
+	"menu.h"
+	"calculate.h"
+
+1484063067 source:f:\计网课设\计网\operation.cpp
+	"menu.h"
+	"calculate.h"
+
+1484018794 source:f:\root\main.cpp
+	"menu.h"
+	"calculate.h"
+
+1484017091 f:\root\menu.h
+	"calculate.h"
+
+1484057418 f:\root\calculate.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stack>
+
+1484061660 source:f:\root\menu.cpp
+	"menu.h"
+	"calculate.h"
+
+1484063067 source:f:\root\operation.cpp
+	"menu.h"
+	"calculate.h"
+
+1484098272 source:f:\root\calculate.cpp
+	"calculate.h"
+	"menu.h"
+	"queue"
+
